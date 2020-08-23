@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T23:28:17.242Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="fTYGv6nIE3vYYSctHX83" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-23T23:31:03.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="W687ANydzcMWxColt0d6" version="13.6.4" type="github">
   <diagram id="AxluppXwnXN56TlynqXW" name="Page-1">
     <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,10 +39,10 @@
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-12" value="&lt;ul&gt;&lt;li&gt;Mejorar el desempeño laboral&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-12" value="&lt;ul&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="40" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-13" value="Reportes para&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-22" value="Evento" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
