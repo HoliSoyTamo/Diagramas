@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-23T23:58:44.460Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="Yu2RRUJcVT9QZ3ORKhOd" version="13.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-24T00:19:11.876Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="4N6g-L2EhLnFWIbfPsyz" version="13.6.4" type="github" pages="2">
   <diagram id="AxluppXwnXN56TlynqXW" name="Reportes">
     <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -33,8 +33,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-10" value="&lt;ul&gt;&lt;li&gt;Docentes&lt;/li&gt;&lt;li&gt;Licencias&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;" parent="1" vertex="1">
-          <mxGeometry x="324.38" y="60" width="121.25" height="60" as="geometry" />
+        <mxCell id="QBgt0H1TTeSrNc7OlJ4i-10" value="&lt;ul&gt;&lt;li&gt;Docentes&lt;/li&gt;&lt;li&gt;Licencias&lt;/li&gt;&lt;li&gt;Gerente de RRHH&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;align=left;" parent="1" vertex="1">
+          <mxGeometry x="324.38" y="60" width="145.62" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QBgt0H1TTeSrNc7OlJ4i-11" target="QBgt0H1TTeSrNc7OlJ4i-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -54,10 +54,10 @@
           <mxGeometry x="85" y="30" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-24" value="Recursos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;fontColor=#660033;" parent="1" vertex="1">
-          <mxGeometry x="340" y="30" width="90" height="20" as="geometry" />
+          <mxGeometry x="352.19" y="30" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-25" value="Metas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;fontColor=#330066;" parent="1" vertex="1">
-          <mxGeometry x="605" y="10" width="60" height="20" as="geometry" />
+          <mxGeometry x="605" y="20" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="QBgt0H1TTeSrNc7OlJ4i-27" value="Proceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontSize=16;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="340" y="280" width="80" height="20" as="geometry" />
@@ -71,7 +71,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="EE2uqVMs7XPQktetyJ2d" name="Página-2">
+  <diagram id="EE2uqVMs7XPQktetyJ2d" name="Horarios">
     <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="rDWizS0sj0sneCIX7CGz-0" />
@@ -79,14 +79,16 @@
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=37;entryDy=0;entryPerimeter=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-1" target="UkhcAe4ZgTEgOJ5tTxS3-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-1" value="Necesidad de&lt;br style=&quot;font-size: 13px;&quot;&gt;generar boletas&lt;br style=&quot;font-size: 13px;&quot;&gt;de pago" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=18;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
-          <mxGeometry x="70" y="210" width="140" height="60" as="geometry" />
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-1" value="Necesitad de administrar&lt;br&gt;los horarios del personal" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=18;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;spacingLeft=14;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+          <mxGeometry x="40" y="210" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=70;entryDy=60;entryPerimeter=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-3" target="UkhcAe4ZgTEgOJ5tTxS3-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=85;entryDy=60;entryPerimeter=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-3" target="UkhcAe4ZgTEgOJ5tTxS3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="340" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
-          <mxGeometry x="125" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="110" y="310" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0;exitDx=133;exitDy=0;exitPerimeter=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-6" target="UkhcAe4ZgTEgOJ5tTxS3-11">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +96,7 @@
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-6" target="UkhcAe4ZgTEgOJ5tTxS3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-6" value="Generar&lt;br style=&quot;font-size: 14px;&quot;&gt;reportes" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=37;notch=37;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-6" value="Registro de&lt;br&gt;horarios" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=37;notch=37;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
           <mxGeometry x="300" y="210" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-8" target="UkhcAe4ZgTEgOJ5tTxS3-6">
@@ -105,21 +107,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-8" value="&lt;ul&gt;&lt;li&gt;Docentes&lt;/li&gt;&lt;li&gt;Licencias&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
-          <mxGeometry x="324.38" y="60" width="121.25" height="60" as="geometry" />
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-8" value="&lt;ul&gt;&lt;li&gt;Docentes&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Gerente de RRHH&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;align=left;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+          <mxGeometry x="324.37" y="65" width="145.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rDWizS0sj0sneCIX7CGz-1" source="UkhcAe4ZgTEgOJ5tTxS3-10" target="UkhcAe4ZgTEgOJ5tTxS3-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-10" value="&lt;ul&gt;&lt;li&gt;Asistencias y tipos de licencias del docente&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;arcSize=0;spacingLeft=-16;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
-          <mxGeometry x="50" y="60" width="180" height="60" as="geometry" />
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-10" value="&lt;ul&gt;&lt;li&gt;Asignaturas asignadas&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Horas de trabajo&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Turno&lt;/li&gt;&lt;li style=&quot;text-align: left&quot;&gt;Cargo&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;arcSize=0;spacingLeft=-16;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+          <mxGeometry x="50" y="60" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Mejorar eficazmente el tiempo del proceso&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Disminuir el margen de error&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;verticalAlign=middle;spacing=2;spacingLeft=-16;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Manejar y optimizar la&amp;nbsp; visualización de los&amp;nbsp; horarios establecidos para el personal&amp;nbsp;&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;verticalAlign=middle;spacing=2;spacingLeft=-16;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
           <mxGeometry x="540" y="50" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-12" value="Boletas de pago" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
+        <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-12" value="Cronogramas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
           <mxGeometry x="575" y="210" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-13" value="Información" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;fontColor=#994C00;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
@@ -129,7 +131,7 @@
           <mxGeometry x="340" y="30" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-15" value="Metas" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;fontColor=#330066;" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
-          <mxGeometry x="605" y="10" width="60" height="20" as="geometry" />
+          <mxGeometry x="605" y="20" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="UkhcAe4ZgTEgOJ5tTxS3-16" value="Proceso" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#FF0000;fontSize=16;fontStyle=1" vertex="1" parent="rDWizS0sj0sneCIX7CGz-1">
           <mxGeometry x="340" y="280" width="80" height="20" as="geometry" />
