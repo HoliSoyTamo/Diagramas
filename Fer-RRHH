@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T23:58:59.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="cjkEA-do735tKP9qZDlK" version="13.6.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-08-25T00:12:01.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="4H4SbuVevDYiXj_JxNSk" version="13.6.4" type="github" pages="4">
   <diagram id="AxluppXwnXN56TlynqXW" name="Reportes">
     <mxGraphModel dx="868" dy="454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -229,7 +229,7 @@
         <mxCell id="sRoOb-dJfmKW699sQtVh-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=37;entryDy=0;entryPerimeter=0;" edge="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1" source="sRoOb-dJfmKW699sQtVh-1" target="sRoOb-dJfmKW699sQtVh-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sRoOb-dJfmKW699sQtVh-1" value="Necesitad de tener un registro&lt;br&gt;ordenado de la informaciòn&lt;br&gt;referente a los RRHH&lt;br&gt;de la organización" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=18;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;spacingLeft=14;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
+        <mxCell id="sRoOb-dJfmKW699sQtVh-1" value="Necesitad mantener un control&lt;br&gt;en la seguridad del sistema" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=0;notch=18;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=13;spacingLeft=14;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
           <mxGeometry x="20" y="210" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRoOb-dJfmKW699sQtVh-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=85;entryDy=60;entryPerimeter=0;" edge="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1" source="sRoOb-dJfmKW699sQtVh-3" target="sRoOb-dJfmKW699sQtVh-1">
@@ -248,8 +248,8 @@
             <mxPoint x="575" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sRoOb-dJfmKW699sQtVh-6" value="Registro de&lt;br&gt;información" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=37;notch=37;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
-          <mxGeometry x="300" y="210" width="170" height="60" as="geometry" />
+        <mxCell id="sRoOb-dJfmKW699sQtVh-6" value="Implementación de&amp;nbsp;&lt;br&gt;niveles de acceso" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=37;notch=37;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
+          <mxGeometry x="280" y="210" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRoOb-dJfmKW699sQtVh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1" source="sRoOb-dJfmKW699sQtVh-8" target="sRoOb-dJfmKW699sQtVh-6">
           <mxGeometry relative="1" as="geometry">
@@ -259,7 +259,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sRoOb-dJfmKW699sQtVh-8" value="&lt;ul&gt;&lt;li&gt;Personal del colegio&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;align=left;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
+        <mxCell id="sRoOb-dJfmKW699sQtVh-8" value="&lt;ul&gt;&lt;li&gt;Encargado de seguridad del sistema (el chief)&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;spacingLeft=-16;spacingRight=0;align=left;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
           <mxGeometry x="324.37" y="65" width="145.63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sRoOb-dJfmKW699sQtVh-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1" source="sRoOb-dJfmKW699sQtVh-10" target="sRoOb-dJfmKW699sQtVh-6">
@@ -267,10 +267,10 @@
             <mxPoint x="350" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sRoOb-dJfmKW699sQtVh-10" value="&lt;ul&gt;&lt;li&gt;Datos del personal&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;arcSize=0;spacingLeft=-16;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
-          <mxGeometry x="60" y="70" width="160" height="50" as="geometry" />
+        <mxCell id="sRoOb-dJfmKW699sQtVh-10" value="&lt;ul&gt;&lt;li&gt;Jerarquía del colegio&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontSize=14;arcSize=0;spacingLeft=-16;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
+          <mxGeometry x="60" y="70" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sRoOb-dJfmKW699sQtVh-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Definir SCRUMS&lt;/li&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Acceso a los registros para el mantenimiento requerido&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;verticalAlign=middle;spacing=2;spacingLeft=-16;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
+        <mxCell id="sRoOb-dJfmKW699sQtVh-11" value="&lt;ul style=&quot;font-size: 14px&quot;&gt;&lt;li style=&quot;font-size: 14px&quot;&gt;Creación de protocolos de seguridad&lt;/li&gt;&lt;/ul&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=14;align=left;verticalAlign=middle;spacing=2;spacingLeft=-16;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
           <mxGeometry x="540" y="50" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sRoOb-dJfmKW699sQtVh-12" value="Información" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontStyle=1;fontSize=16;fontColor=#994C00;" vertex="1" parent="rJcA4Bt7jn5Qmsc-TeeK-1">
