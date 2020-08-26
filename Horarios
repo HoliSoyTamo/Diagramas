@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-26T02:16:09.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="wWF0ShA9lUkSOCxWQHS2" version="13.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-26T02:16:55.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="grqLa5nk_6_siEQecSWC" version="13.6.5" type="github" pages="2">
   <diagram name="Horarios" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
     <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#ffffff" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gTvJVtn0MECxswx24_hK-7" value="Realizar inventario de ambientes pedagógicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
+        <mxCell id="gTvJVtn0MECxswx24_hK-7" value="Realizar inventario de ambientes pedagógicos" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="10" y="160" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gTvJVtn0MECxswx24_hK-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="gTvJVtn0MECxswx24_hK-1" source="gTvJVtn0MECxswx24_hK-9" target="gTvJVtn0MECxswx24_hK-8" edge="1">
@@ -47,7 +47,7 @@
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="gTvJVtn0MECxswx24_hK-1" source="AF7JkXWaRNV3MqFFOQD5-12" target="gTvJVtn0MECxswx24_hK-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AF7JkXWaRNV3MqFFOQD5-12" value="Si durante alguna semana el docente no atiende a los estudiantes o padres se deberá informar al coordinador a fin de establecer un nuevo orden en las tareas" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="gTvJVtn0MECxswx24_hK-1">
+        <mxCell id="AF7JkXWaRNV3MqFFOQD5-12" value="Si durante alguna semana el docente no atiende a los estudiantes o padres se deberá informar al coordinador a fin de establecer un nuevo orden en las tareas" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gTvJVtn0MECxswx24_hK-1">
           <mxGeometry x="60" y="590" width="200" height="70" as="geometry" />
         </mxCell>
         <mxCell id="gTvJVtn0MECxswx24_hK-4" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
@@ -56,10 +56,10 @@
         <mxCell id="gTvJVtn0MECxswx24_hK-2" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="135" y="40" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gTvJVtn0MECxswx24_hK-21" value="Ingresar los datos al sistema" style="rounded=1;whiteSpace=wrap;html=1;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
+        <mxCell id="gTvJVtn0MECxswx24_hK-21" value="Ingresar los datos al sistema" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="90" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gTvJVtn0MECxswx24_hK-9" value="Las horas deben de estar basadas en el plan de estudios y se tiene que tener en cuenta la cantidad de secciones&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=center;spacingTop=-6;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
+        <mxCell id="gTvJVtn0MECxswx24_hK-9" value="Las horas deben de estar basadas en el plan de estudios y se tiene que tener en cuenta la cantidad de secciones&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=center;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="80" y="250" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gTvJVtn0MECxswx24_hK-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="gTvJVtn0MECxswx24_hK-1" source="gTvJVtn0MECxswx24_hK-4" target="gTvJVtn0MECxswx24_hK-8" edge="1">
@@ -93,10 +93,10 @@
         <mxCell id="gTvJVtn0MECxswx24_hK-12" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#ff0000;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="50" y="360" width="200" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="gTvJVtn0MECxswx24_hK-8" value="Calcular cantidad de horas requeridas por área curricular" style="rounded=1;whiteSpace=wrap;html=1;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
+        <mxCell id="gTvJVtn0MECxswx24_hK-8" value="Calcular cantidad de horas requeridas por área curricular" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="gTvJVtn0MECxswx24_hK-1" vertex="1">
           <mxGeometry x="155" y="160" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AF7JkXWaRNV3MqFFOQD5-8" value="La carga lectiva debe de respetar las normativas especificadas por la IIEE selladas por el Director&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;" vertex="1" parent="gTvJVtn0MECxswx24_hK-1">
+        <mxCell id="AF7JkXWaRNV3MqFFOQD5-8" value="La carga lectiva debe de respetar las normativas especificadas por la IIEE selladas por el Director&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gTvJVtn0MECxswx24_hK-1">
           <mxGeometry x="135" y="485" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="AF7JkXWaRNV3MqFFOQD5-8" target="x-jQWy2xbV3rjOJRKZS0-2">
@@ -108,7 +108,7 @@
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="gTvJVtn0MECxswx24_hK-23" source="x-jQWy2xbV3rjOJRKZS0-2" target="AF7JkXWaRNV3MqFFOQD5-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="x-jQWy2xbV3rjOJRKZS0-2" value="Determinar la carga lectiva por docente" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
+        <mxCell id="x-jQWy2xbV3rjOJRKZS0-2" value="Determinar la carga lectiva por docente" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
           <mxGeometry x="20" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gTvJVtn0MECxswx24_hK-23" source="x-jQWy2xbV3rjOJRKZS0-3" target="x-jQWy2xbV3rjOJRKZS0-2">
@@ -132,13 +132,13 @@
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="gTvJVtn0MECxswx24_hK-23" source="AF7JkXWaRNV3MqFFOQD5-6" target="AF7JkXWaRNV3MqFFOQD5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AF7JkXWaRNV3MqFFOQD5-6" value="Exportar los cronogramas&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
+        <mxCell id="AF7JkXWaRNV3MqFFOQD5-6" value="Exportar los cronogramas&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
           <mxGeometry x="90" y="660" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AF7JkXWaRNV3MqFFOQD5-10" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;align=center;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
           <mxGeometry x="135" y="760" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="x-jQWy2xbV3rjOJRKZS0-4" value="Determinar la cantidad de aulas funcionales" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
+        <mxCell id="x-jQWy2xbV3rjOJRKZS0-4" value="Determinar la cantidad de aulas funcionales" style="rounded=1;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gTvJVtn0MECxswx24_hK-23">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
