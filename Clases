@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-27T02:40:34.132Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="1mmy12auqUA9orlCd8MC" version="13.6.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-08-27T05:14:41.412Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36 OPR/70.0.3728.106" etag="u-vfmx4WH_hE6A3ZZ5Hw" version="13.6.5" type="github" pages="2">
   <diagram id="JSAWOVV-wgRzZcoqs1dN" name="Diagrama">
-    <mxGraphModel dx="868" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,18 +46,18 @@
         <mxCell id="DzxOsKYrUzdeHfJu4bkV-9" value="+ contar(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="DzxOsKYrUzdeHfJu4bkV-6" vertex="1">
           <mxGeometry y="68" width="170" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="kdU9Rxnm7agIfib-0IC1-1" value="Ambiente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="kdU9Rxnm7agIfib-0IC1-1" value="Ambiente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="160" width="170" height="94" as="geometry">
             <mxRectangle x="150" y="70" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kdU9Rxnm7agIfib-0IC1-2" value="+ tipo: char&#xa;+ ubicacion: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kdU9Rxnm7agIfib-0IC1-1">
+        <mxCell id="kdU9Rxnm7agIfib-0IC1-2" value="+ tipo: char&#xa;+ ubicacion: char" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kdU9Rxnm7agIfib-0IC1-1" vertex="1">
           <mxGeometry y="26" width="170" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="kdU9Rxnm7agIfib-0IC1-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="kdU9Rxnm7agIfib-0IC1-1">
+        <mxCell id="kdU9Rxnm7agIfib-0IC1-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="kdU9Rxnm7agIfib-0IC1-1" vertex="1">
           <mxGeometry y="60" width="170" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="kdU9Rxnm7agIfib-0IC1-4" value="+ contar(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="kdU9Rxnm7agIfib-0IC1-1">
+        <mxCell id="kdU9Rxnm7agIfib-0IC1-4" value="+ contar(): int" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="kdU9Rxnm7agIfib-0IC1-1" vertex="1">
           <mxGeometry y="68" width="170" height="26" as="geometry" />
         </mxCell>
         <mxCell id="sUr7f1JIbek7SRwdUD4h-1" value="Ingresos" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
@@ -124,7 +124,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="pZwfwT6eBxAZzYP_skbB" name="PAGO">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="G4eIgiZxdiIgZX2_EiGZ-0" />
         <mxCell id="G4eIgiZxdiIgZX2_EiGZ-1" parent="G4eIgiZxdiIgZX2_EiGZ-0" />
@@ -143,7 +143,7 @@
         <mxCell id="m_WcJ0blcDTFqgwdOZRw-4" value="Descuentos" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="G4eIgiZxdiIgZX2_EiGZ-1" vertex="1">
           <mxGeometry x="370" y="440" width="180" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="m_WcJ0blcDTFqgwdOZRw-5" value="+AFP_Aporte : float&#xa;+AFP_Comision_Vaiable : float&#xa;+AFP-Seguros : float &#xa;+Retencion_Categoria : float&#xa;+Adelanto: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m_WcJ0blcDTFqgwdOZRw-4" vertex="1">
+        <mxCell id="m_WcJ0blcDTFqgwdOZRw-5" value="+AFP_Aporte : float&#xa;+AFP_Comision_Variable : float&#xa;+AFP-Seguros : float &#xa;+Retencion_Categoria : float&#xa;+Adelanto: float" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="m_WcJ0blcDTFqgwdOZRw-4" vertex="1">
           <mxGeometry y="26" width="180" height="74" as="geometry" />
         </mxCell>
         <mxCell id="m_WcJ0blcDTFqgwdOZRw-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="m_WcJ0blcDTFqgwdOZRw-4" vertex="1">
