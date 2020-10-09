@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T02:22:38.671Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="whKOY4b9_oPZflg2s2OX" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T02:30:16.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3LO_OGfSCNAryoan_xvP" version="13.7.1" type="github">
   <diagram id="_iIrzZAZyFiEAcZGnPfb" name="Linea de Tiempo">
-    <mxGraphModel dx="1550" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1550" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="730" y="190" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-29" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;1972&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="810" y="190" width="60" height="20" as="geometry" />
+          <mxGeometry x="823" y="190" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-30" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;1985&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1090" y="190" width="60" height="20" as="geometry" />
@@ -224,7 +224,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-67" value="Utilizó la programación&lt;br&gt;estructurada y estructuración de datos.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="680" y="100" width="150" height="60" as="geometry" />
+          <mxGeometry x="680" y="100" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-69" target="H2Y5PQpH4K8H6_F1nNUV-29">
           <mxGeometry relative="1" as="geometry" />
@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-73" value="Brinda la posibilidad de realizar consultas" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="1075" y="40" width="140" height="50" as="geometry" />
+          <mxGeometry x="1075" y="44" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-75" target="H2Y5PQpH4K8H6_F1nNUV-32">
           <mxGeometry relative="1" as="geometry" />
@@ -294,16 +294,16 @@
           <mxGeometry x="670" y="75" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-86" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;C&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="830" y="60.5" width="60" height="35" as="geometry" />
+          <mxGeometry x="837" y="60.5" width="52" height="35" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-87" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;C++&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000066;" vertex="1" parent="1">
           <mxGeometry x="1004" y="70" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-88" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;SQL&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="15" width="60" height="35" as="geometry" />
+          <mxGeometry x="1050" y="20" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-89" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;VISUAL BASIC&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000066;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="50" width="70" height="45.5" as="geometry" />
+          <mxGeometry x="1246" y="50" width="70" height="45.5" as="geometry" />
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-90" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;JAVA&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000066;" vertex="1" parent="1">
           <mxGeometry x="1290" y="2" width="70" height="35" as="geometry" />
@@ -392,6 +392,50 @@
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-109" value="IBM y American Airlines desarrollan SABRE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
           <mxGeometry x="264" y="30" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-111" target="H2Y5PQpH4K8H6_F1nNUV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="41" />
+              <mxPoint x="830" y="170" />
+              <mxPoint x="810" y="170" />
+              <mxPoint x="810" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-111" value="Edgar Frank Codd definió el modelo relacional" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="610" y="20.5" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-113" target="H2Y5PQpH4K8H6_F1nNUV-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="830" y="30" />
+              <mxPoint x="830" y="170" />
+              <mxPoint x="810" y="170" />
+              <mxPoint x="810" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-113" value="Larry Ellison desarrolla ORACLE" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="840" y="10" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-115" value="SQL empezó a ser el estándar de la industria" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="400" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-117" target="H2Y5PQpH4K8H6_F1nNUV-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="H2Y5PQpH4K8H6_F1nNUV-117" value="La investigación gira en torno a las BD orientadas a objetos" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="-2" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
