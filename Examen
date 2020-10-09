@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-09T02:30:16.929Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="3LO_OGfSCNAryoan_xvP" version="13.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-09T02:31:54.126Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="wyUwg69Zb5CZX1jcnIMm" version="13.7.1" type="github">
   <diagram id="_iIrzZAZyFiEAcZGnPfb" name="Linea de Tiempo">
     <mxGraphModel dx="1550" dy="1556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -422,6 +422,9 @@
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="H2Y5PQpH4K8H6_F1nNUV-115">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1040" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1040" y="420" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H2Y5PQpH4K8H6_F1nNUV-115" value="SQL empezó a ser el estándar de la industria" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;" vertex="1" parent="1">
