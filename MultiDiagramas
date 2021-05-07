@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T01:28:31.413Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.243" etag="WYaJVVWLOLBBRcQGVbUs" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-07T01:35:49.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36 OPR/75.0.3969.243" etag="Swf8BtmUaT6OE9ZRkfAR" version="14.6.10" type="github">
   <diagram id="wRO7P_QcFomzewHyuHO0" name="Page-1">
     <mxGraphModel dx="828" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -129,6 +129,30 @@
         </mxCell>
         <mxCell id="zZq8Ss021IqHS2w8PDjz-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Cancel-128.png;dashed=1;strokeColor=#6666FF;fontColor=#0000FF;" vertex="1" parent="1">
           <mxGeometry x="417.76" y="23.520000000000003" width="14.48" height="14.48" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-essence/32/_62ui-128.png;dashed=1;fontColor=#0000FF;strokeColor=#6666FF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-44" value="&lt;font color=&quot;#0000ff&quot;&gt;Amenazas&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="430" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-45" value="&lt;font color=&quot;#0000ff&quot;&gt;Dengue&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="544.29" y="91.44" width="85.71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-essence/32/_62ui-128.png;dashed=1;fontColor=#0000FF;strokeColor=#6666FF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="573.57" y="67.10000000000001" width="27.15" height="27.15" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-essence/32/_62ui-128.png;dashed=1;fontColor=#0000FF;strokeColor=#6666FF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="487.86000000000007" y="20.000000000000007" width="27.15" height="27.15" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-48" value="&lt;font color=&quot;#0000ff&quot;&gt;Sismo&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="458.58" width="85.71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-49" value="&lt;font color=&quot;#0000ff&quot;&gt;Incendio&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontColor=#FF3333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="590" y="210" width="85.71" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zZq8Ss021IqHS2w8PDjz-50" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/ui-essence/32/_62ui-128.png;dashed=1;fontColor=#0000FF;strokeColor=#6666FF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="660" y="215.85" width="27.15" height="27.15" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
