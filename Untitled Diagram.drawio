@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T02:45:00.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.60" version="17.4.4" etag="WTnQPNz65TbW7GPii2uT" type="github"><diagram id="SVM9A-Mr0ClmyRW8TNuS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-21T03:07:40.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36 OPR/85.0.4341.60" etag="fSFl5ebuk3AoLJ5SXptV" version="17.4.4" type="github">
+  <diagram id="SVM9A-Mr0ClmyRW8TNuS" name="Page-1">
+    <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-1" value="&lt;b&gt;INFRAESTRUCTURA DE LA EMPRESA&lt;/b&gt;&lt;br&gt;Planeamiento, Finanzas, Costos y Presupuestos" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-2" value="&lt;b&gt;GESTIÓN DE RECURSOS HUMANOS&lt;/b&gt;&lt;br&gt;Contratación de personal, Capacitaciones, Ambiente Laboral Saludable." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="220" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-3" value="&lt;b&gt;DESARROLLO DE TECNOLOGÍA&lt;/b&gt;&lt;br&gt;Desarrollo de Productos, Investigación de Mercado, Metodología de Trabajo, Sistemas Informáticos: Sketchup" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-4" value="&lt;b&gt;COMPRAS&lt;br&gt;&lt;/b&gt;Componentes, Maquinarias, Publicidad&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="80" y="340" width="600" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-6" value="&lt;b&gt;LOGÍSTICA INTERNA&lt;br&gt;&lt;/b&gt;&lt;br&gt;Compra y Almacemianto de Insumos, Recepción de pedidos de Clientes" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-7" value="&lt;b&gt;OPERACIONES&lt;br&gt;&lt;/b&gt;&lt;br&gt;Proceso de diseño, Proceso de Producción,&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-8" value="&lt;b&gt;SERVICIOS POSTVENTA&lt;br&gt;&lt;/b&gt;&lt;br&gt;Resolucion de &lt;br&gt;quejas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="560" y="400" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-9" value="&lt;b&gt;MARKETING Y VENTAS&lt;br&gt;&lt;/b&gt;&lt;br&gt;Proceso de publicidad en redes sociales, presentaciones de propuestas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="440" y="400" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-10" value="&lt;b&gt;LOGÍSTICA DE SALIDA&lt;br&gt;&lt;/b&gt;&lt;br&gt;Proceso de entrega del Producto, Proceso de Mantenimiento" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="4wN0f_aOlHpXn7Qgh_QY-12" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;b style=&quot;line-height: 1&quot;&gt;&lt;font style=&quot;font-size: 13px&quot;&gt;MARGEN&lt;/font&gt;&lt;/b&gt;&lt;/blockquote&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;horizontal=0;labelPosition=center;verticalLabelPosition=middle;textDirection=ltr;spacing=-2;spacingTop=25;spacingBottom=0;spacingRight=42;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="650" y="160" width="100" height="410" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
