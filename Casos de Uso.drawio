@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-01T02:04:09.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="BYBkuOuLUCJxaJuLDP9p" version="19.0.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-07-01T02:11:08.885Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36 OPR/88.0.4412.53" etag="3nCHi6arzIhe3keQ2r_e" version="19.0.0" type="github" pages="4">
   <diagram id="N1HYoiyU07o6EDMfZa8b" name="1">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -293,7 +293,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Dpwv7-YtsHhv5R0h50QB-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="148" y="730" width="530" height="330" as="geometry" />
+          <mxGeometry x="148" y="730" width="530" height="230" as="geometry" />
         </mxCell>
         <mxCell id="Dpwv7-YtsHhv5R0h50QB-30" value="Proceso de inscripcion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="178" y="790" width="152" height="30" as="geometry" />
@@ -340,14 +340,23 @@
         <mxCell id="Dpwv7-YtsHhv5R0h50QB-51" value="Proceso Proceso de aprobacion de solicitud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="500" y="830" width="152" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dpwv7-YtsHhv5R0h50QB-52" value="Proceso de inscripcion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-52" value="Proceso de consulta de creditos aprobados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="177" y="870" width="152" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dpwv7-YtsHhv5R0h50QB-53" value="Proceso de pago" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-53" value="Proceso de registro de socios" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="338" y="870" width="152" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Dpwv7-YtsHhv5R0h50QB-54" value="Proceso de solicitud de prestamo" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-54" value="Proceso de registro de solicitudes" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="499" y="870" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-56" value="Proceso de ingreso de cronogramas" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="339" y="910" width="152" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-58" value="Requisitos y necesidades de las partesinteresadas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#3333FF;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="60" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="Dpwv7-YtsHhv5R0h50QB-59" value="Productos y servicios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;fontColor=#3333FF;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="50" width="60" height="910" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
