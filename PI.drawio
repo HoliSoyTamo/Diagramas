@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-04T13:54:46.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="mQWd_Cdkb9GJRMUkRNgC" version="20.2.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-04T13:56:42.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.54" etag="6TJv5gu1QWyL1VisS5hH" version="20.2.8" type="github" pages="2">
   <diagram id="4IM-N1hj2kw1kHrJ0OoO" name="Social">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
         <mxCell id="5wYJBxHWKUSwLPzMomjk-19" value="&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;Sistema Experto&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="211" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5wYJBxHWKUSwLPzMomjk-20" value="Metodología&amp;nbsp;&lt;span style=&quot;font-size: 11pt; line-height: 107%; font-family: Calibri, sans-serif;&quot;&gt;XP&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="5wYJBxHWKUSwLPzMomjk-20" value="Metodología &lt;font face=&quot;Calibri, sans-serif&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;SCRUM&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="140" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="5wYJBxHWKUSwLPzMomjk-21" value="V. Independiente" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
