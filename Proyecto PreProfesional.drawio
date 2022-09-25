@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T17:20:37.791Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" version="20.3.0" etag="mJ7TLy-aLFrHM6L8nw1I" type="github"><diagram id="B4wwlrnDfWuLED-4GDn6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-25T17:24:20.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="Ir1-bx-mVzVNn6f78fK1" version="20.3.0" type="github">
+  <diagram id="B4wwlrnDfWuLED-4GDn6" name="Pestel">
+    <mxGraphModel dx="828" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wZ9944_SYVBtTWwvehlu-1" value="POLÍTICAS&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="150" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-2" value="ECONOMÍA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-3" value="SOCIO-CULTURALES" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="150" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-4" value="TECNOLOGÍA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
+          <mxGeometry x="130" y="400" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-5" value="LEGISLACIÓN" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
+          <mxGeometry x="310" y="400" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-6" value="ECOLOGÍA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+          <mxGeometry x="490" y="400" width="180" height="250" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
