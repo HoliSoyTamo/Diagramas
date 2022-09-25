@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-09-25T17:50:59.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="NXsJ2zuAxE4NqUJqQE8J" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-25T17:53:08.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36 OPR/90.0.4480.84" etag="TD4srHJEwmN12tBr3DXo" version="20.3.0" type="github">
   <diagram id="B4wwlrnDfWuLED-4GDn6" name="Pestel">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wZ9944_SYVBtTWwvehlu-1" value="POLÍTICAS&lt;br&gt;&lt;br&gt;&lt;br&gt;- Situación nacional de las TIC&#39;S.&lt;br&gt;- Estabilidad política.&lt;br&gt;- Clima político del país.&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+        <mxCell id="wZ9944_SYVBtTWwvehlu-1" value="POLÍTICAS&lt;br&gt;&lt;br&gt;&lt;br&gt;- Situación nacional de las TIC&#39;S.&lt;br&gt;- Estabilidad política.&lt;br&gt;- Clima político del país.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="wZ9944_SYVBtTWwvehlu-2" value="ECONOMÍA&lt;br&gt;&lt;br&gt;&lt;br&gt;- Inversiones en el sector de desarrollo de software y TIC&#39;s.&lt;br&gt;- Incremento de la demanda de mercado en relación a los productos y servicios de software.&lt;br&gt;- Poder adquisitivo de los consumidores." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="150" width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="wZ9944_SYVBtTWwvehlu-3" value="SOCIO-CULTURALES&lt;br&gt;&lt;br&gt;&lt;br&gt;- Influencia de las TIC&#39;s en el contorno social.&lt;br&gt;- Cambios en el espacio de trabajo y estilo de vida." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+        <mxCell id="wZ9944_SYVBtTWwvehlu-3" value="SOCIO-CULTURALES&lt;br&gt;&lt;br&gt;&lt;br&gt;- Influencia de las TIC&#39;s en el contorno social.&lt;br&gt;- Cambios en el espacio de trabajo y estilo de vida.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
           <mxGeometry x="490" y="150" width="180" height="250" as="geometry" />
         </mxCell>
         <mxCell id="wZ9944_SYVBtTWwvehlu-4" value="TECNOLOGÍA&lt;br&gt;&lt;br&gt;&lt;br&gt;- Incorporación del trabajo remoto&lt;br&gt;- Aumento de eficiencia en los recursos de TI&lt;br&gt;- Incremento de la integración tecnológica en las empresas&lt;br&gt;- Cambios tecnológicos futuros.&lt;br&gt;- Automatización de procesos." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" vertex="1" parent="1">
@@ -19,8 +19,26 @@
         <mxCell id="wZ9944_SYVBtTWwvehlu-5" value="LEGISLACIÓN&lt;br&gt;&lt;br&gt;&lt;br&gt;- Uso de licencias de software.&lt;br&gt;- Derecho de propiedad intelectual.&lt;br&gt;- Leyes de protección (datos, trabajo, consumidor).&lt;br&gt;- Leyes de impuesto&lt;br&gt;- Leyes de empleo&lt;br&gt;- Regulaciones internacionales." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="180" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="wZ9944_SYVBtTWwvehlu-6" value="ECOLOGÍA&lt;br&gt;&lt;br&gt;&lt;br&gt;- Ahorro de materiales e insumos de oficina.&lt;br&gt;- Responsabilidad ambiental corporativa." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
+        <mxCell id="wZ9944_SYVBtTWwvehlu-6" value="ECOLOGÍA&lt;br&gt;&lt;br&gt;&lt;br&gt;- Ahorro de materiales e insumos de oficina.&lt;br&gt;- Responsabilidad ambiental corporativa.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="180" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-7" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;P&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="150" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-8" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;E&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="430" y="150" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-9" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;S&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="610" y="150" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-10" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;T&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="250" y="400" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-11" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;L&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="430" y="400" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wZ9944_SYVBtTWwvehlu-12" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;&lt;b style=&quot;font-size: 55px;&quot;&gt;E&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
