@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T17:02:25.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="402-Fjqal0FxKzi0JIER" version="20.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T17:09:36.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="EYb96DuzspbJ18J3D4oQ" version="20.5.0" type="github" pages="3">
   <diagram id="B4wwlrnDfWuLED-4GDn6" name="Pestel">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -225,6 +225,9 @@
         <mxCell id="q7LW2sj1dCIKB4TUS1II-9" value="Reportes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="150" width="106" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-87" value="Ingresar" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-10" target="q7LW2sj1dCIKB4TUS1II-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="q7LW2sj1dCIKB4TUS1II-10" value="Auditoría" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="150" width="106" height="30" as="geometry" />
         </mxCell>
@@ -408,11 +411,102 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-67" target="q7LW2sj1dCIKB4TUS1II-71">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="260" />
+              <mxPoint x="640" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-67" target="q7LW2sj1dCIKB4TUS1II-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="260" />
+              <mxPoint x="640" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-67" target="q7LW2sj1dCIKB4TUS1II-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="260" />
+              <mxPoint x="640" y="685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="q7LW2sj1dCIKB4TUS1II-67" value="Vista de reportes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="240" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="q7LW2sj1dCIKB4TUS1II-69" value="Buscar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="526" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="573" y="459.4000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-71" value="Exportar PDF" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-77" target="q7LW2sj1dCIKB4TUS1II-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-77" value="Exportar Excel" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-79" value="Reporte.pdf" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="566.32" y="459.4" width="13.35" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-80" value="Reporte.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="568.32" y="589.4" width="13.35" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-82" value="Limpiar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-86" target="q7LW2sj1dCIKB4TUS1II-88">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="260" />
+              <mxPoint x="780" y="335" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-96" value="Ingresar datos" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-86" target="q7LW2sj1dCIKB4TUS1II-92">
+          <mxGeometry x="0.823" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="260" />
+              <mxPoint x="780" y="460" />
+              <mxPoint x="715" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-86" target="q7LW2sj1dCIKB4TUS1II-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="780" y="260" />
+              <mxPoint x="780" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-86" value="Vista de auditoria" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="240" width="86" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="q7LW2sj1dCIKB4TUS1II-88" target="q7LW2sj1dCIKB4TUS1II-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-88" value="Exportar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="668" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-89" value="Reporte.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
+          <mxGeometry x="706.32" y="390" width="13.35" height="30.6" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-92" value="Buscar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-93" value="Limpiar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="570" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
