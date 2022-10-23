@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T17:09:36.557Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="EYb96DuzspbJ18J3D4oQ" version="20.5.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-10-23T17:10:40.163Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="etCB8jQh-YwkPwgU6Jrj" version="20.5.0" type="github" pages="3">
   <diagram id="B4wwlrnDfWuLED-4GDn6" name="Pestel">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7WSJtl93QPAd8zOJXsbp" name="Navegabilidad">
-    <mxGraphModel dx="953" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1152" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -499,7 +499,7 @@
         <mxCell id="q7LW2sj1dCIKB4TUS1II-88" value="Exportar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="668" y="320" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q7LW2sj1dCIKB4TUS1II-89" value="Reporte.xlsx" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
+        <mxCell id="q7LW2sj1dCIKB4TUS1II-89" value="Auditoria.pdf" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;" vertex="1" parent="1">
           <mxGeometry x="706.32" y="390" width="13.35" height="30.6" as="geometry" />
         </mxCell>
         <mxCell id="q7LW2sj1dCIKB4TUS1II-92" value="Buscar" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
