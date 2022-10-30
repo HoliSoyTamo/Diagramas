@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-30T19:39:09.026Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="InkYAiyIQFDDdPjpvbM2" version="20.5.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-10-30T19:46:39.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 OPR/92.0.0.0" etag="mcxSSzCg-tlfEtQ3yzN8" version="20.5.1" type="github" pages="4">
   <diagram id="B4wwlrnDfWuLED-4GDn6" name="Pestel">
     <mxGraphModel dx="1382" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -517,10 +517,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-2" value="Proceso de Gestión de Contratos de Abonados de Empresas Operadoras" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="750" height="510" as="geometry" />
+          <mxGeometry x="120" y="160" width="980" height="510" as="geometry" />
         </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-3" value="Usuario Administrador de Osiptel" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-2">
-          <mxGeometry x="20" width="730" height="230" as="geometry" />
+          <mxGeometry x="20" width="960" height="230" as="geometry" />
         </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-3" source="hm9iOZZFr2wyhqWSrvXP-16" target="hm9iOZZFr2wyhqWSrvXP-18">
           <mxGeometry relative="1" as="geometry" />
@@ -528,19 +528,29 @@
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-16" value="Recepcionar contrato de abonado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
           <mxGeometry x="120" y="90" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hm9iOZZFr2wyhqWSrvXP-21" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-3" source="hm9iOZZFr2wyhqWSrvXP-18" target="hm9iOZZFr2wyhqWSrvXP-20">
-          <mxGeometry y="15" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-36" value="Sí" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-3" source="hm9iOZZFr2wyhqWSrvXP-18" target="hm9iOZZFr2wyhqWSrvXP-20">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-18" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;¿El formato es correcto?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
           <mxGeometry x="320" y="65" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="hm9iOZZFr2wyhqWSrvXP-20" value="Recepcionar contrato de abonado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-20" value="Registrar contrato de abonado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
           <mxGeometry x="480" y="90" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-3" source="hm9iOZZFr2wyhqWSrvXP-31" target="hm9iOZZFr2wyhqWSrvXP-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-31" value="Realizar cambios necesarios" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
+          <mxGeometry x="640" y="90" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-33" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontSize=10;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
+          <mxGeometry x="830" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-35" value="Fin" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-3">
+          <mxGeometry x="825" y="130" width="40" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-4" value="Empresa Operadora" style="swimlane;startSize=20;horizontal=0;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-2">
-          <mxGeometry x="20" y="230" width="730" height="280" as="geometry" />
+          <mxGeometry x="20" y="230" width="960" height="280" as="geometry" />
         </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-4" source="hm9iOZZFr2wyhqWSrvXP-6" target="hm9iOZZFr2wyhqWSrvXP-11">
           <mxGeometry relative="1" as="geometry" />
@@ -560,15 +570,44 @@
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-22" value="Realizar correcciones" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-4">
           <mxGeometry x="300" y="105" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-30" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-4" source="hm9iOZZFr2wyhqWSrvXP-26" target="hm9iOZZFr2wyhqWSrvXP-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-26" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;¿El estado del contrato es el correcto?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-4">
+          <mxGeometry x="500" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-29" value="Solicitar cambio de estado" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="hm9iOZZFr2wyhqWSrvXP-4">
+          <mxGeometry x="640" y="105" width="120" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-2" source="hm9iOZZFr2wyhqWSrvXP-11" target="hm9iOZZFr2wyhqWSrvXP-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hm9iOZZFr2wyhqWSrvXP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-2" source="hm9iOZZFr2wyhqWSrvXP-18" target="hm9iOZZFr2wyhqWSrvXP-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hm9iOZZFr2wyhqWSrvXP-25" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="hm9iOZZFr2wyhqWSrvXP-23">
-          <mxGeometry x="-0.593" y="3" relative="1" as="geometry">
-            <mxPoint x="7" as="offset" />
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-37" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="hm9iOZZFr2wyhqWSrvXP-23">
+          <mxGeometry x="-0.7421" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-2" source="hm9iOZZFr2wyhqWSrvXP-20" target="hm9iOZZFr2wyhqWSrvXP-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-2" source="hm9iOZZFr2wyhqWSrvXP-29" target="hm9iOZZFr2wyhqWSrvXP-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="hm9iOZZFr2wyhqWSrvXP-2" source="hm9iOZZFr2wyhqWSrvXP-26" target="hm9iOZZFr2wyhqWSrvXP-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="420" />
+              <mxPoint x="900" y="420" />
+              <mxPoint x="900" y="105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hm9iOZZFr2wyhqWSrvXP-39" value="Sí" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="hm9iOZZFr2wyhqWSrvXP-38">
+          <mxGeometry x="-0.7267" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
