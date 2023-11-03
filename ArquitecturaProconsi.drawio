@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T13:49:33.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="9KS_SWpzYimiVp25HI6x" version="22.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-03T16:26:16.752Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36 OPR/103.0.0.0" etag="kJDmrzvxBfGlC7HWU_f5" version="22.0.8" type="github" pages="4">
   <diagram name=".NET sin Firebase" id="iYyHNwtR07F9O2eVOEy3">
-    <mxGraphModel dx="1779" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1210" dy="218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,7 +604,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Laravel sin Firebase" id="Q2H4kSIZ1a0oybT86aPn">
-    <mxGraphModel dx="1616" dy="447" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="313" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="7WLSeWh3WNw7xhsIYIql-0" />
         <mxCell id="7WLSeWh3WNw7xhsIYIql-1" parent="7WLSeWh3WNw7xhsIYIql-0" />
@@ -662,7 +662,7 @@
         <mxCell id="7WLSeWh3WNw7xhsIYIql-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#e27f22;" vertex="1" parent="7WLSeWh3WNw7xhsIYIql-1">
           <mxGeometry x="209.5" y="291.00000000000006" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="7WLSeWh3WNw7xhsIYIql-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Laravel&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="7WLSeWh3WNw7xhsIYIql-1">
+        <mxCell id="7WLSeWh3WNw7xhsIYIql-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Flutter&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="7WLSeWh3WNw7xhsIYIql-1">
           <mxGeometry x="234.5" y="343.00000000000006" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="7WLSeWh3WNw7xhsIYIql-21" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;GetWidget&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="7WLSeWh3WNw7xhsIYIql-1">
@@ -900,7 +900,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Laravel con Firebase" id="_moUsgdwk2jvN1RDxENE">
-    <mxGraphModel dx="1144" dy="180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1779" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="CTcHhMu07n8AAFh0C_4d-0" />
         <mxCell id="CTcHhMu07n8AAFh0C_4d-1" parent="CTcHhMu07n8AAFh0C_4d-0" />
@@ -958,7 +958,7 @@
         <mxCell id="CTcHhMu07n8AAFh0C_4d-19" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#e27f22;" vertex="1" parent="CTcHhMu07n8AAFh0C_4d-1">
           <mxGeometry x="209.5" y="291.00000000000006" width="80" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="CTcHhMu07n8AAFh0C_4d-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Laravel&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="CTcHhMu07n8AAFh0C_4d-1">
+        <mxCell id="CTcHhMu07n8AAFh0C_4d-20" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;Flutter&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="CTcHhMu07n8AAFh0C_4d-1">
           <mxGeometry x="234.5" y="343.00000000000006" width="30" height="10" as="geometry" />
         </mxCell>
         <mxCell id="CTcHhMu07n8AAFh0C_4d-21" value="&lt;font style=&quot;font-size: 7px;&quot;&gt;GetWidget&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#616161;fontFamily=Tahoma;" vertex="1" parent="CTcHhMu07n8AAFh0C_4d-1">
